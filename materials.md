@@ -1,6 +1,6 @@
 # 1 pràctica. Anàlisis dels materials
-##Parelles
+## Parelles
 
-##Grup
+## Grup
 
-##Classe
+## Classe
